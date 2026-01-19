@@ -35,5 +35,5 @@ Displays order data by country and uses semantic table sections:
 * Alternating row colors make it easier to scan data quickly
 
 ## Demo
-Open the HTML file in your browser to view the table.  
+Open the HTML file in your browser (live server) to view the table.  
 No setup or build steps required.
