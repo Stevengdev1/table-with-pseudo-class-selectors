@@ -1,4 +1,4 @@
-# Simple HTML Table with CSS Styling
+# Simple HTML Table with Pseudo-Class Selectors
 
 A small front-end project that displays order data using a semantic HTML table and basic CSS styling.
 
